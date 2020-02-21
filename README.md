@@ -8,7 +8,7 @@ Qitong YANG - 889222
 Video link: https://youtu.be/74mcu3HC3MQ
   
 ## Introduction
-In this project, we implement the Pacman agents by using three approaches, Weighted $`A^{*}`$, Monte-Carlo Tree Search and Deep Q-learning. The implementations will be introduced and there is a comparison at the last section of this wiki.
+In this project, we implement the Pacman agents by using three approaches, Weighted $A^{*}$, Monte-Carlo Tree Search and Deep Q-learning. The implementations will be introduced and there is a comparison at the last section of this wiki.
 
 ## Implementation
 Heuristic Search: myTeam.py
