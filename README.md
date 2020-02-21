@@ -1,4 +1,5 @@
 # Pacman
+This project is from http://ai.berkeley.edu/contest.html. As rules in this page, only the implementation files are included here.
 # Implementation
 Team name: Pretty Rooster  
 Fan YANG - 931031   
